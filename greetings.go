@@ -1,4 +1,4 @@
-package greetings
+package github.com/ShailajaPat/greetings
 
 import "fmt"
 
