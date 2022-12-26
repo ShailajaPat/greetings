@@ -1,3 +1,3 @@
-module github.com/greetings
+module github.com/ShailajaPat/greetings
 
 go 1.16
